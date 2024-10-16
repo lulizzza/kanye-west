@@ -19,3 +19,17 @@ footer{
     width: 100%;
     text-align: center;
 }
+
+#conteiner{
+    padding: 4rem;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.cartao{
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+    height: 20rem;
+    margin: 1rem;
+}
