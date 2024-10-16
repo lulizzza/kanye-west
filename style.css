@@ -20,7 +20,7 @@ footer{
     text-align: center;
 }
 
-#conteiner{
+#container{
     padding: 4rem;
     display: flex;
     gap: 3rem;
@@ -32,4 +32,10 @@ footer{
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
+}
+
+.conteudo-cartao{
+    background-color: var(--cartao-frente);
+    height: 100%;
+    text-align: center;
 }
