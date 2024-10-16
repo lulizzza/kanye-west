@@ -96,27 +96,27 @@ criaCartao(
     
 )
 criaCartao(
-    "matematica",
-    "como se calcula a soma dos termos de uma P.A?",
-    "utiliza-se a formula; ((a1+an)*r)/2"
+    "quimica",
+    "qual a formula da agua?",
+    "H2O"
+    
+)
+criaCartao(
+    "biologia",
+    "maior mamifero do mundo?",
+    "baleia azul"
     
 )
 criaCartao(
     "matematica",
-    "como se calcula a soma dos termos de uma P.A?",
-    "utiliza-se a formula; ((a1+an)*r)/2"
+    "quanto e 2x2?",
+    "4"
     
 )
 criaCartao(
-    "matematica",
-    "como se calcula a soma dos termos de uma P.A?",
-    "utiliza-se a formula; ((a1+an)*r)/2"
-    
-)
-criaCartao(
-    "matematica",
-    "como se calcula a soma dos termos de uma P.A?",
-    "utiliza-se a formula; ((a1+an)*r)/2"
+    "fisica",
+    "quais sao os 3 estados da materia?",
+    "solido, liquido e gasoso"
     
 )
  // ao todo são 20 perguntas que exijam memorização dos conteudos 
