@@ -38,7 +38,7 @@ footer{
     background-color: var(--cartao-frente);
     height: 100%;
     text-align: center;
-    tram
+    transition: transform 300ms ease-in-out;
 }
 .conteudo-cartao h3{
     color: var(--destaque);
@@ -55,6 +55,7 @@ footer{
         margin-top: 4rem;
         padding: 2rem;
         font-size: 1,4vw;
+        backface-visibility: hidden;
     }
 
     .pergunta-cartao{
@@ -68,4 +69,11 @@ footer{
 
     .cartao:hover .conteudo-cartao{
         transform: rotateY(180deg);
+    }
+
+    .pergunta-cartao, .resposta-cartao{
+        backface-visibility: hidden;
+        position: absolute;
+        height: 100%;
+        width: 100%;
     }
