@@ -58,7 +58,7 @@ footer{
     backface-visibility: hidden;
 }
 
-    .conteudo-cartao {
+    .conteudo-cartao p {
         margin-top: 4rem;
         padding: 2rem;
         font-size: 1.4vw;
