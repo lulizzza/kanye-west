@@ -50,10 +50,10 @@ footer{
     color: var(--destaque);
     border: 1px solid var(--destaque);
     position: absolute;
-    margin: 0,5rem;
-    padding: o,5rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
     text-align: left;
-    border-radius: o,6rem;
+    border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
 }
@@ -61,7 +61,7 @@ footer{
     .conteudo-cartao {
         margin-top: 4rem;
         padding: 2rem;
-        font-size: 1,4vw;
+        font-size: 1.4vw;
     }
 
     .pergunta-cartao{
