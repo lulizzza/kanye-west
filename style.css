@@ -25,6 +25,7 @@ footer{
     padding: 4rem;
     display: flex;
     gap: 3rem;
+    align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
 }
@@ -40,8 +41,11 @@ footer{
     background-color: var(--cartao-frente);
     height: 100%;
     text-align: center;
+    color: var(--branco);
+    transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
+
 .conteudo-cartao h3{
     color: var(--destaque);
     border: 1px solid var(--destaque);
