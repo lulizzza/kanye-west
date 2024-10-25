@@ -33,7 +33,7 @@
         text-align: center;
     }
 
-    #conteiner{
+    #container{
         display: grid;
         gap: 3rem;
         padding: 4rem;
