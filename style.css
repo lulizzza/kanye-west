@@ -76,7 +76,7 @@ footer{
         border: 2px solid var(--destaque);
     }
 
-    .cartao:active .conteudo-cartao{
+    .cartao.active .conteudo-cartao{
         transform: rotateY(180deg);
     }
 
