@@ -46,3 +46,7 @@
         border: 1px;
         box-shadow: 5px 5px 20px var(--preto);
     }
+
+    .cartao:hover{
+        transform: scale(1.0);
+    }
