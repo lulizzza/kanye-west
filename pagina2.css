@@ -32,3 +32,17 @@
         width: 100%;
         text-align: center;
     }
+
+    #conteiner{
+        display: grid;
+        gap: 3rem;
+        padding: 4rem;
+    }
+
+    .cartao{
+        background-color: var(--cartao-frente);
+        padding: 40px;
+        border: 1px solid var(--destaque);
+        border: 1px;
+        box-shadow: 5px 5px 20px var(--preto);
+    }
